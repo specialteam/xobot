@@ -1,9 +1,6 @@
 # Telegram-XOGame
 Two Player XO Game Bot For Telegram
 
-Demo: [@g4u_bot](https://telegram.me/g4u_bot)
-
-Language : [Persian](https://en.wikipedia.org/wiki/Persian)
 
 This Game Uses `inlinekeyboard` and `editmessage` to transfer data. with out any DataBase to Store Data.
 
@@ -16,3 +13,4 @@ This Game Uses `inlinekeyboard` and `editmessage` to transfer data. with out any
 
 Note That Before Every Thing , Enable The `Inline` Mode Of Your Bot.
 - to do this go to your [`botfather`](https://telegram.me/botfather) and run this Code: `/setinline`
+[specialteam](https://telegram.me/specialteam_ch)
